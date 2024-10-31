@@ -1,0 +1,71 @@
+P{
+    font-size: 15pt;
+    color: rgb(0, 0, 0);
+}
+
+
+ol{
+  font-size: 20px;
+}
+
+
+a{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+body{
+    background-color: blanchedalmond;
+}
+header{
+    background-color: grey;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 10px solid #adadad;
+    background-color: #000000;
+
+  
+  }
+  
+.content li {
+    float:none;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    box-shadow: 0 0 25px 0;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  .active {
+    background-color: #04AA6D;
+  }
+
+
+.content ul {
+  font-size: 20px;
+  border: none;
+  background-color: blanchedalmond;
+
+}
+
+
+
+
+
+
+
+
